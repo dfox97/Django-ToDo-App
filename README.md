@@ -1,5 +1,7 @@
 # Intro #
-Using Django framework to make a ToDo app after following the cs50 lecture 3 course on python web development
+Using Django framework to make a ToDo app after following the cs50 lecture 3 course on python web development.
+
+Front end in Html,CSS+Bootstrap , Backend server using Django
 
 ![mainToDo](https://user-images.githubusercontent.com/61083107/136714286-83598dbe-aa13-4960-b03a-705a3787d5a9.jpg)
 
